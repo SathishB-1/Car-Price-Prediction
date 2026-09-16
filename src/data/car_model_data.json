@@ -1,0 +1,200 @@
+{
+  "coef": [
+    20057.866765070936,
+    -0.327666351261362,
+    0.5302950062184377,
+    0.6397517391928129,
+    0.34338998530524834
+  ],
+  "intercept": -40512232.2879132,
+  "name_map": {
+    "Chevrolet Beat LS": 169857.14285714287,
+    "Chevrolet Beat LT": 143916.66666666666,
+    "Ford EcoSport Titanium": 555666.6666666666,
+    "Honda Amaze": 304090.0,
+    "Honda City": 490229.92307692306,
+    "Honda City 1.5": 254272.72727272726,
+    "Hyundai Elite i20": 478266.4666666667,
+    "Hyundai Grand i10": 373999.86666666664,
+    "Hyundai Santro Xing": 95666.66666666667,
+    "Hyundai Verna Fluidic": 419333.1666666667,
+    "Hyundai i20 Magna": 230000.0,
+    "Mahindra Jeep CL550": 396333.3333333333,
+    "Mahindra Quanto C8": 365833.3333333333,
+    "Mahindra Scorpio S10": 582272.7272727273,
+    "Mahindra Scorpio VLX": 564666.5,
+    "Maruti Suzuki Alto": 205190.47619047618,
+    "Maruti Suzuki Dzire": 358428.21428571426,
+    "Maruti Suzuki Ertiga": 547979.7333333333,
+    "Maruti Suzuki Omni": 127888.77777777778,
+    "Maruti Suzuki Ritz": 268624.5,
+    "Maruti Suzuki Swift": 280347.03921568627,
+    "Maruti Suzuki Wagon": 176678.5,
+    "Maruti Suzuki Zen": 89692.23076923077,
+    "Renault Duster": 504165.8333333333,
+    "Renault Duster 85": 519999.3333333333,
+    "Tata Indica V2": 86249.875,
+    "Tata Indigo CS": 135083.33333333334,
+    "Tata Indigo eCS": 231363.63636363635,
+    "Toyota Corolla Altis": 350099.7,
+    "Toyota Innova 2.5": 705833.1666666666,
+    "other": 343560.9820971867
+  },
+  "company_map": {
+    "Chevrolet": 202085.26470588235,
+    "Datsun": 255714.0,
+    "Fiat": 109875.0,
+    "Force": 572500.0,
+    "Ford": 396344.724137931,
+    "Honda": 349457.2033898305,
+    "Hyundai": 306992.60583941604,
+    "Mahindra": 490682.5326086957,
+    "Maruti": 266518.63181818184,
+    "Nissan": 312799.6,
+    "Renault": 460512.2727272727,
+    "Skoda": 251191.38461538462,
+    "Tata": 200939.29230769232,
+    "Toyota": 414249.84375,
+    "Volkswagen": 363055.27777777775,
+    "other": 499333.4166666667
+  },
+  "fuel_map": {
+    "Diesel": 396468.35511363635,
+    "LPG": 205000.0,
+    "Petrol": 264002.0073170732
+  },
+  "name_default": 334051.30705954495,
+  "company_default": 340765.6906465457,
+  "fuel_default": 288490.1208102365,
+  "top_companies": [
+    "Chevrolet",
+    "Datsun",
+    "Fiat",
+    "Force",
+    "Ford",
+    "Honda",
+    "Hyundai",
+    "Mahindra",
+    "Maruti",
+    "Nissan",
+    "Renault",
+    "Skoda",
+    "Tata",
+    "Toyota",
+    "Volkswagen"
+  ],
+  "top_names": [
+    "Chevrolet Beat LS",
+    "Chevrolet Beat LT",
+    "Ford EcoSport Titanium",
+    "Honda Amaze",
+    "Honda City",
+    "Honda City 1.5",
+    "Hyundai Elite i20",
+    "Hyundai Grand i10",
+    "Hyundai Santro Xing",
+    "Hyundai Verna Fluidic",
+    "Hyundai i20 Magna",
+    "Mahindra Jeep CL550",
+    "Mahindra Quanto C8",
+    "Mahindra Scorpio S10",
+    "Mahindra Scorpio VLX",
+    "Maruti Suzuki Alto",
+    "Maruti Suzuki Dzire",
+    "Maruti Suzuki Ertiga",
+    "Maruti Suzuki Omni",
+    "Maruti Suzuki Ritz",
+    "Maruti Suzuki Swift",
+    "Maruti Suzuki Wagon",
+    "Maruti Suzuki Zen",
+    "Renault Duster",
+    "Renault Duster 85",
+    "Tata Indica V2",
+    "Tata Indigo CS",
+    "Tata Indigo eCS",
+    "Toyota Corolla Altis",
+    "Toyota Innova 2.5"
+  ],
+  "company_models": {
+    "Maruti": [
+      "Maruti Suzuki Alto",
+      "Maruti Suzuki Dzire",
+      "Maruti Suzuki Ertiga",
+      "Maruti Suzuki Omni",
+      "Maruti Suzuki Ritz",
+      "Maruti Suzuki Swift",
+      "Maruti Suzuki Wagon",
+      "Maruti Suzuki Zen",
+      "other"
+    ],
+    "Hyundai": [
+      "Hyundai Elite i20",
+      "Hyundai Grand i10",
+      "Hyundai Santro Xing",
+      "Hyundai Verna Fluidic",
+      "Hyundai i20 Magna",
+      "other"
+    ],
+    "Mahindra": [
+      "Mahindra Jeep CL550",
+      "Mahindra Quanto C8",
+      "Mahindra Scorpio S10",
+      "Mahindra Scorpio VLX",
+      "other"
+    ],
+    "Tata": [
+      "Tata Indica V2",
+      "Tata Indigo CS",
+      "Tata Indigo eCS",
+      "other"
+    ],
+    "Honda": [
+      "Honda Amaze",
+      "Honda City",
+      "Honda City 1.5",
+      "other"
+    ],
+    "Chevrolet": [
+      "Chevrolet Beat LS",
+      "Chevrolet Beat LT",
+      "other"
+    ],
+    "Renault": [
+      "Renault Duster",
+      "Renault Duster 85",
+      "other"
+    ],
+    "Toyota": [
+      "Toyota Corolla Altis",
+      "Toyota Innova 2.5",
+      "other"
+    ],
+    "Ford": [
+      "Ford EcoSport Titanium",
+      "other"
+    ],
+    "Volkswagen": [
+      "other"
+    ],
+    "Skoda": [
+      "other"
+    ],
+    "Datsun": [
+      "other"
+    ],
+    "Nissan": [
+      "other"
+    ],
+    "Force": [
+      "other"
+    ],
+    "Fiat": [
+      "other"
+    ]
+  },
+  "fuel_types": [
+    "Diesel",
+    "LPG",
+    "Petrol"
+  ]
+}
