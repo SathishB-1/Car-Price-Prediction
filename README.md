@@ -114,4 +114,4 @@ Developed by Sathish B
 GitHub: https://github.com/SathishB-1/Car-Price-Prediction
 
 ## User Interface:
-![image Alt](https://github.com/SathishB-1/Car-Price-Prediction/blob/2867c3b7d984382920d5f48d77d4a861532370a2/image/UI.png)
+![image Alt](https://github.com/SathishB-1/Car-Price-Prediction/blob/3de5ecb7e204b757df6362487dd8c5fe1f8bca89/Screenshot%202026-09-16%20170154.png)
